@@ -1,0 +1,79 @@
+{
+  "name": "CoffeeBean",
+  "dark": true,
+  "author": "MrARM",
+  "editorScheme": "/coffeebean.xml",
+  "icons": {
+    "ColorPalette": {
+      "Checkbox.Focus.Thin.Selected.Dark": "#462e0e",
+      "Checkbox.Focus.Wide.Dark": "#825518"
+    }
+  },
+  "ui": {
+    "*": {
+      "background": "#222222",
+      "foreground": "#d4d4d4",
+      "borderColor": "#462e0e",
+      "focusColor": "#825518",
+      "focusedBorderColor": "#412a0c",
+      "selectionBackground": "#412a0c",
+      "selectionInactiveBackground": "#5f420e",
+      "modifiedItemForeground": "#825518"
+    },
+    "Borders": {
+      "color": "#462e0e",
+      "ContrastBorderColor": "#462e0e"
+    },
+    "Button": {
+      "default": {
+        "startBackground": "#825518",
+        "endBackground": "#412a0c",
+        "focusColor": "#462e0e",
+        "startBorderColor": "#462e0e",
+        "endBorderColor": "#462e0e"
+      }
+    },
+    "Component.borderColor": "#412a0c",
+    "DefaultTabs": {
+      "underlineColor": "#825518",
+      "underlinedTabBackground": "#462e0e",
+      "hoverBackground": "#392e09"
+    },
+    "Editor.shortcutForeground": "#b0a825",
+    "EditorPane.inactiveBackground": "#000000",
+    "EditorTabs": {
+      "underlineColor": "#825518",
+      "underlinedTabBackground": "#462e0e"
+    },
+    "Link": {
+      "activeForeground": "#b0a825",
+      "secondaryForeground": "#b0a825",
+      "hoverForeground": "#825518",
+      "pressedForeground": "#825518",
+      "visitedForeground": "#462e0e"
+    },
+    "Plugins.lightSelectionBackground": "#462e0e",
+    "Popup": {
+      "Header": {
+        "activeBackground": "#825518",
+        "inactiveBackground": "462e0e"
+      }
+    },
+    "ProgressBar.progressColor": "#825518",
+    "TabbedPane.underlineColor": "#825518",
+    "ToolWindow": {
+      "Header": {
+        "background": "#7b5115",
+        "inactiveBackground": "#462e0e",
+        "borderColor": "#744a15"
+      }
+    },
+    "Tree.background": "#121212",
+    "FileColor": {
+      "Green": "#142b0c",
+      "Orange": "#330803",
+      "Yellow": "#292400"
+    },
+    "VersionControl.Log.Commit.currentBranchBackground": "#2b1f08"
+  }
+}

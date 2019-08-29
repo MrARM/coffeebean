@@ -1,0 +1,33 @@
+plugins {
+    id 'org.jetbrains.intellij' version '0.4.9'
+}
+
+group 'com.mrarm'
+version '1.0.0'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+patchPluginXml {
+    sinceBuild = '192.5728'
+    untilBuild = ''
+}
+
+// See https://github.com/JetBrains/gradle-intellij-plugin/
+intellij {
+    updateSinceUntilBuild = true
+    sameSinceUntilBuild = false
+}
+
+//
+//publishPlugin {
+//    token intellijPublishToken
+//}
+
+
+patchPluginXml {
+    version project.version
+}
