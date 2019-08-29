@@ -1,7 +1,7 @@
 # Coffeebean IntelliJ Theme
 
 
-[Plugin at JetBrains Repo TBD](https://plugins.jetbrains.com/plugin/).
+[Plugin at JetBrains Repo](https://plugins.jetbrains.com/plugin/12948-coffeebean-dark-ui-theme).
 
 ![IDE Screenshot](screenshots/ide-scr.png)
 
