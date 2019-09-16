@@ -1,12 +1,21 @@
 <idea-plugin>
   <id>com.mrarm.coffeebean.ui.theme</id>
   <name>CoffeeBean Dark UI Theme</name>
-  <version>1.0.0</version>
+  <category>UI</category>
+  <version>1.0.1</version>
   <vendor email="jordan@thesmokinggnu.us" url="http://github.com/mrarm/coffeebean">MrARM</vendor>
-
+  <change-notes><![CDATA[
+    <h4>1.0.1</h4>
+    <ul>
+    <li>Fix up description, as it originally had poor formatting.</li>
+    </ul>
+  ]]></change-notes>
   <description><![CDATA[
-      UI Theme with notes of Arabica
-      See screenshots & description on <a href="http://github.com/mrarm/coffeebean">Github</a>.
+      UI Theme with notes of Arabica.<br/>
+      See more information on <a href="http://github.com/mrarm/coffeebean">Github</a>.<br/>
+      <br/><br/>
+      <h2>screenshot</h2>
+      <p><br/><img alt="Editor" src="https://raw.githubusercontent.com/MrARM/coffeebean/master/screenshots/ide-scr.png" width="700"/></p>
      ]]></description>
 
   <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
